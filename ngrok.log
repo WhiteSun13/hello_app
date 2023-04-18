@@ -1,0 +1,59 @@
+t=2023-04-18T10:36:44+0000 lvl=info msg="no configuration paths supplied"
+t=2023-04-18T10:36:44+0000 lvl=info msg="using configuration at default config path" path=/home/user180423/.config/ngrok/ngrok.yml
+t=2023-04-18T10:36:44+0000 lvl=info msg="open config file" path=/home/user180423/.config/ngrok/ngrok.yml err=nil
+t=2023-04-18T10:36:44+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2023-04-18T10:36:45+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-18T10:36:45+0000 lvl=info msg="client session established" obj=csess id=3c8844f1b404
+t=2023-04-18T10:36:45+0000 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8080 url=https://820f-185-186-235-99.ngrok-free.app
+t=2023-04-18T10:38:12+0000 lvl=info msg="join connections" obj=join id=8b39187ec37d l=127.0.0.1:8080 r=185.186.235.99:50102
+t=2023-04-18T10:38:13+0000 lvl=info msg="join connections" obj=join id=1505a2688f11 l=127.0.0.1:8080 r=185.186.235.99:50102
+t=2023-04-18T10:39:33+0000 lvl=info msg="join connections" obj=join id=42f8da35538c l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=708abfb61ed5 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=dbea97d8999c l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=b72fc74a8943 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=56023a9ae0d6 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=7b9408124d0f l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=5d5419ed87d6 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=85adb386dfb5 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=2d498e8ce2ee l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=49a3d5aa843a l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=9d4757654417 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=30e945eb50e7 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=0fc560aa5171 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=8a32c860b234 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=aff19c578073 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=7fff254eb13c l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=baa48a0ec192 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=83fea7653010 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=c9b1fb0d4528 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=439fdedbd1e1 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=589f201931ad l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=0db194213280 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=7b49e68be27c l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=c796c5c109f9 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=2cb58d1dfc97 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=c7e851e95ce4 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=67f71c039794 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:34+0000 lvl=info msg="join connections" obj=join id=6204d406a992 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:37+0000 lvl=info msg="join connections" obj=join id=a36789a34101 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:37+0000 lvl=info msg="join connections" obj=join id=c6467c29769e l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:37+0000 lvl=info msg="join connections" obj=join id=7ca7a3122315 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:37+0000 lvl=info msg="join connections" obj=join id=8a948c9115a8 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:37+0000 lvl=info msg="join connections" obj=join id=1836654a49f5 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:37+0000 lvl=info msg="join connections" obj=join id=cfd152a6d30d l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:39:37+0000 lvl=info msg="join connections" obj=join id=5ea8cf3b6d19 l=127.0.0.1:8080 r=185.186.235.99:50160
+t=2023-04-18T10:40:00+0000 lvl=eror msg="heartbeat timeout, terminating session" obj=csess id=00ff6b9cbe71 clientid=e4c7a60b167a09557ad8aee160b599a9
+t=2023-04-18T10:40:00+0000 lvl=eror msg="session closed, starting reconnect loop" obj=csess id=3c8844f1b404 err="session closed"
+t=2023-04-18T10:40:06+0000 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2023-04-18T10:40:06+0000 lvl=info msg="client session established" obj=csess id=3c8844f1b404
+t=2023-04-18T10:40:48+0000 lvl=info msg="join connections" obj=join id=5cfc2e747d7c l=127.0.0.1:8080 r=185.186.235.99:50209
+t=2023-04-18T10:41:02+0000 lvl=info msg="join connections" obj=join id=b4feb7df33c5 l=127.0.0.1:8080 r=185.186.235.99:50214
+t=2023-04-18T10:41:02+0000 lvl=info msg="join connections" obj=join id=e2a8536c8d4e l=127.0.0.1:8080 r=185.186.235.99:50214
+t=2023-04-18T10:41:32+0000 lvl=info msg="join connections" obj=join id=ca1ca72649f8 l=127.0.0.1:8080 r=185.186.235.99:50237
+t=2023-04-18T10:41:32+0000 lvl=info msg="join connections" obj=join id=733416576478 l=127.0.0.1:8080 r=185.186.235.99:50237
+t=2023-04-18T10:41:42+0000 lvl=info msg="join connections" obj=join id=d0ad09d6c797 l=127.0.0.1:8080 r=185.186.235.99:50241
+t=2023-04-18T10:41:42+0000 lvl=info msg="join connections" obj=join id=bf03965a060c l=127.0.0.1:8080 r=185.186.235.99:50241
+t=2023-04-18T10:41:52+0000 lvl=info msg="join connections" obj=join id=ec97b46feeb2 l=127.0.0.1:8080 r=185.186.235.99:50255
+t=2023-04-18T10:41:52+0000 lvl=info msg="join connections" obj=join id=07ee5ade6848 l=127.0.0.1:8080 r=185.186.235.99:50255
+t=2023-04-18T10:42:02+0000 lvl=info msg="join connections" obj=join id=8a66948e72aa l=127.0.0.1:8080 r=185.186.235.99:50262
+t=2023-04-18T10:42:02+0000 lvl=info msg="join connections" obj=join id=0103cc65921b l=127.0.0.1:8080 r=185.186.235.99:50262
